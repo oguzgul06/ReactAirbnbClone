@@ -35,7 +35,7 @@
 .search > button {
   position: absolute;
   left: 0;
-  top: 480px;
+  top: 464px;
   text-transform: inherit !important;
   background-color: #ff7779;
   color: white;
@@ -45,4 +45,6 @@
 .search > button:hover {
   background-color: white;
   color: #ff7779;
+  border: 1px solid #ff7779;
+  border-radius: 5px;
 }
