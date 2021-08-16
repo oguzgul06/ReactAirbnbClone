@@ -20,6 +20,13 @@
   flex-direction: column;
 }
 
+/* .banner__search > Search {
+  object-position: center;
+  object-fit: contain;
+  align-content: flex-start;
+  flex-direction: column;
+} */
+
 .banner__searchButton {
   background-color: white !important;
   font-weight: 900 !important;
